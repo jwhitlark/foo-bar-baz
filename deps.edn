@@ -1,0 +1,2 @@
+{:deps {;; clj-http {:mvn/version "3.9.0"}
+        cloud-clj {:local/root "/home/jw/Dropbox/cnc/cloud-clj"}}}
